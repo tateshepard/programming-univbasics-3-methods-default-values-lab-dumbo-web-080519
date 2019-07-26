@@ -1,4 +1,4 @@
 
 def meal_choice 
   
-  puts "What a nutritous "
+  puts "What a nutritious meal!"
